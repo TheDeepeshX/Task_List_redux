@@ -1,3 +1,8 @@
+This is the project of redux prectis in react redux
+
+Auther : Deepesh Singh Suryavanshi 
+All Component and logics by me  ,
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
